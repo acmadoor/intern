@@ -1,6 +1,6 @@
 html{
     font-family: 'Montserrat', sans-serif;
-    background-image: url("bgg.jpg");
+    background-image: url("bgg.webp");
     background-size: cover;
     background-position: center;
     animation: animateBg 5s linear infinite;
